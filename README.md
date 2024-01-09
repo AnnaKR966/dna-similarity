@@ -17,4 +17,4 @@ The output of the function records the compared sequences and percentage identit
 
 The final part of the script is the exporting of the pandas dataframe and heatmap of the percentage identity between all the phages.
 
-This pipeline allows the for the easy comparison of the how genetically identical the bacteriophages are by exporting, both a table showing the percentage identity between each pair of phages, and a graphical representation of it. 
+This pipeline allows for the easy comparison of how genetically identical the bacteriophages are by exporting, both a table showing the percentage identity between each pair of phages, and a graphical representation of it. 
