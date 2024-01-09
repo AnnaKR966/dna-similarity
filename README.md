@@ -5,7 +5,7 @@ My SWBio rotation project is concerned with exploring the diversity within a col
 
 The script has four major elements, it takes DNA sequences, finds the optimum alignment of two of them, calculates the percentage of identical bases, finally, once all the possible pairs have been compared it visualises all the data in an easy to read heatmap.
 
-To run, download the jupyter notebook file entitled sequence_similarity.ipynb, which contains all the data required to run the script. The required packages are Biopython, Pandas and Seaborn.
+To run, download the jupyter notebook file entitled sequence_similarity.ipynb, which contains all the data required to run the script. The required packages are Biopython, Pandas, Seaborn and matplotlib.pyplot.
 
 The test DNA is embedded in the script, this loads the data into a dictionary, as a place holder for the individual importing the fasta files as SeqRecords directly into the nested for loop. The two part dictionary represents the record.id and record.seq of the SeqRecords. 
 
